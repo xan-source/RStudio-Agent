@@ -1,0 +1,7 @@
+"";"agent_id";"agent_file_name";"net_payoff"
+"1";1;"Agent13.R";2592
+"2";2;"Agent13.R";2471
+"3";3;"Agent13.R";2605
+"4";4;"ag_random.R";2370
+"5";5;"ag_cooperator.R";2104
+"6";6;"myDefector.R";2615
